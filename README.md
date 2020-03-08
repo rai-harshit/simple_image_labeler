@@ -11,4 +11,4 @@ Usage: ```simple_image_labeler.py [-h] -i INPUT_FOLDER -o OUTPUT_FOLDER -c CLASS
                         Path to the output folder
   -c CLASSES, --classes CLASSES
                         Names of the classes
-  -k KEYS, --keys KEYS  Keys to be used for each of the classes```
+  -k KEYS, --keys KEYS  Keys to be used for each of the classes
